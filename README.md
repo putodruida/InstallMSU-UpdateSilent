@@ -9,3 +9,6 @@ Just leave the .msu installation next to the script and run.
 
 
 <b>NOTE:</b> The user where the script is executed must be an administrator.
+
+
+<b>Microsoft Update Catalog: https://www.catalog.update.microsoft.com/home.aspx</b>
